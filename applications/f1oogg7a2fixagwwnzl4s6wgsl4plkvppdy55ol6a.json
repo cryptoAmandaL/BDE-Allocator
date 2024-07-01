@@ -35,7 +35,7 @@
     "Weekly Allocation": "512TiB"
   },
   "Lifecycle": {
-    "State": "ReadyToSign",
+    "State": "ChangesRequested",
     "Validated At": "2024-04-30 07:49:47.937770702 UTC",
     "Validated By": "cryptoAmandaL",
     "Active": true,
@@ -43,7 +43,7 @@
     "Active Request ID": "d21ef5e9-3dca-408a-9f4f-63b7073197f5",
     "On Chain Address": "f1oogg7a2fixagwwnzl4s6wgsl4plkvppdy55ol6a",
     "Multisig Address": "false",
-    "edited": true
+    "edited": false
   },
   "Allocation Requests": [
     {
