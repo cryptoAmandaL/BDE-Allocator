@@ -1,9 +1,9 @@
 {
-  "Version": 1,
+  "Version": "1.3",
   "ID": "f1oogg7a2fixagwwnzl4s6wgsl4plkvppdy55ol6a",
   "Issue Number": "3",
   "Client": {
-    "Name": "NCAR",
+    "Name": "X-Bug | NCAR",
     "Region": "United States",
     "Industry": "Environment",
     "Website": "https://www.ucar.edu/terms-of-use/data",
@@ -43,7 +43,7 @@
     "Active Request ID": "d21ef5e9-3dca-408a-9f4f-63b7073197f5",
     "On Chain Address": "f1oogg7a2fixagwwnzl4s6wgsl4plkvppdy55ol6a",
     "Multisig Address": "false",
-    "edited": false
+    "edited": true
   },
   "Allocation Requests": [
     {
