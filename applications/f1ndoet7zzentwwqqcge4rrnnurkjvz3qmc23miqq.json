@@ -35,12 +35,12 @@
     "Weekly Allocation": "512TiB"
   },
   "Lifecycle": {
-    "State": "Granted",
+    "State": "ReadyToSign",
     "Validated At": "2024-05-31 08:16:31.900078443 UTC",
     "Validated By": "cryptoAmandaL",
     "Active": true,
-    "Updated At": "2024-06-20 07:06:22.949716518 UTC",
-    "Active Request ID": "b558aedb-75a9-4281-a63f-6bfa11e1dd3d",
+    "Updated At": "2024-07-01 03:00:03.972057688 UTC",
+    "Active Request ID": "2ab39dae-4c01-4200-b934-34b5d44c8c91",
     "On Chain Address": "f1ndoet7zzentwwqqcge4rrnnurkjvz3qmc23miqq",
     "Multisig Address": "false",
     "edited": false
@@ -77,6 +77,15 @@
           "Message CID": "bafy2bzaced5dttrhfznoigq7c6rdtqcmddcnoxv5nqm3x4kdqtmmb2ecrg3x6"
         }
       ]
+    },
+    {
+      "ID": "2ab39dae-4c01-4200-b934-34b5d44c8c91",
+      "Request Type": "Refill",
+      "Created At": "2024-07-01 03:00:03.972065358 UTC",
+      "Updated At": "2024-07-01 03:00:03.972066842 UTC",
+      "Active": true,
+      "Allocation Amount": "1PiB",
+      "Signers": []
     }
   ]
 }
