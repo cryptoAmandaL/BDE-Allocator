@@ -1,9 +1,9 @@
 {
-  "Version": 1,
+  "Version": "1.3",
   "ID": "f1avfkllpeqlx32bwjcka6y27scftpl5nzh754yly",
   "Issue Number": "1",
   "Client": {
-    "Name": "The Rieseberg Lab at the University of British Columbia",
+    "Name": "X-Bug The Rieseberg Lab at the University of British Columbia",
     "Region": "United Kingdom",
     "Industry": "Resources, Agriculture & Fisheries",
     "Website": "https://rieseberglab.github.io/ubc-sunflower-genome/",
@@ -12,7 +12,6 @@
     "Role": "Data Preparer"
   },
   "Project": {
-    "Project Id": "1",
     "Brief history of your project and organization": "This dataset captures Sunflower's genetic diversity originating from thousands of wild, cultivated, and landrace sunflower individuals distributed across North America. The data consists of raw sequences and associated botanical metadata, aligned sequences (to three different reference genomes), and sets of SNPs computed across several cohorts.",
     "Is this project associated with other projects/ecosystem stakeholders?": "No",
     "Describe the data being stored onto Filecoin": "This dataset allows the genetic study of the germplasm (i.e. seed) of 2392 Sunflowers (a mix of wild, landrace, and cultivated varieties), from multiple species, collected from diverse ecosystems throughout North America. Plants were grown in a common garden experiment (in greenhouse), and then whole-genome-sequenced over a total of 3523 Illumina HiSeq runs. All the plants involved are associated with curated metadata in NCBI’s Short Read Archive (SRA), where the raw source data is currently available.",
