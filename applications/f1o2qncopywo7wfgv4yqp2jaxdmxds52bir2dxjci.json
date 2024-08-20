@@ -39,8 +39,8 @@
     "Validated At": "2024-07-23 09:41:11.920416971 UTC",
     "Validated By": "cryptoAmandaL",
     "Active": true,
-    "Updated At": "2024-08-07 06:34:08.514772058 UTC",
-    "Active Request ID": "1e03023b-abdf-4802-a163-35282f7bddba",
+    "Updated At": "2024-08-20 05:12:09.022195975 UTC",
+    "Active Request ID": "02edb5b1-b356-4e8c-bf9a-cc8415f2e668",
     "On Chain Address": "f1o2qncopywo7wfgv4yqp2jaxdmxds52bir2dxjci",
     "Multisig Address": "false",
     "edited": false
@@ -75,6 +75,22 @@
           "Signing Address": "f1sj3dlgezobhqrozumf6x3bjr6cjyynnwck2vwpi",
           "Created At": "2024-08-07 06:34:06.429000000 UTC",
           "Message CID": "bafy2bzaced3xmw5e4yzzv7tqmsxdnluxxgg3prq4f3ttdrlq3lrtzzmcjvggk"
+        }
+      ]
+    },
+    {
+      "ID": "02edb5b1-b356-4e8c-bf9a-cc8415f2e668",
+      "Request Type": "Refill",
+      "Created At": "2024-08-20 05:11:30.380383742 UTC",
+      "Updated At": "2024-08-20 05:11:30.380385105 UTC",
+      "Active": false,
+      "Allocation Amount": "24TiB",
+      "Signers": [
+        {
+          "Github Username": "cryptoAmandaL",
+          "Signing Address": "f1sj3dlgezobhqrozumf6x3bjr6cjyynnwck2vwpi",
+          "Created At": "2024-08-20 05:12:06.831000000 UTC",
+          "Message CID": "bafy2bzacedl3x72ctox7cil3kppg3st5rehx6aqjjex7kvetpfbzhvxwl3agy"
         }
       ]
     }
