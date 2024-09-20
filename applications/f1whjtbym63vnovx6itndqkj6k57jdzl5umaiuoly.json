@@ -1,0 +1,49 @@
+{
+  "Version": "1.3",
+  "ID": "f1whjtbym63vnovx6itndqkj6k57jdzl5umaiuoly",
+  "Issue Number": "22",
+  "Client": {
+    "Name": "ESGF and Pangeo",
+    "Region": "Afghanistan",
+    "Industry": "Life Science / Healthcare",
+    "Website": "https://wcrp-cmip.org/cmip6/",
+    "Social Media": "sarah",
+    "Social Media Type": "Slack",
+    "Role": "Data Preparer"
+  },
+  "Project": {
+    "Brief history of your project and organization": "We are an organization which has technology to store data and prepare data. We'd like to make data stored safely.\r\nCMIP is a project of the World Climate Research Programme (WCRP) providing climate projections to understand past, present and future climate changes. CMIP and its associated data infrastructure have become essential to the Intergovernmental Panel on Climate Change (IPCC) and other international and national climate assessments.",
+    "Is this project associated with other projects/ecosystem stakeholders?": "No",
+    "Describe the data being stored onto Filecoin": "The sixth phase of global coupled ocean-atmosphere general circulation model ensemble.",
+    "Where was the data currently stored in this dataset sourced from": "AWS Cloud",
+    "How do you plan to prepare the dataset": "Lotus is the best way to prepare data. We usually made data into car files by lotus. If clients want to choose another way to do it, we can use other program to pack data.",
+    "Please share a sample of the data (a link to a file, an image, a table, etc., are good ways to do this.)": "aws s3 ls --no-sign-request s3://cmip6-pds/",
+    "Confirm that this is a public dataset that can be retrieved by anyone on the network (i.e., no specific permissions or access rights are required to view the data)": "[X] I confirm",
+    "What is the expected retrieval frequency for this data": "Sporadic",
+    "For how long do you plan to keep this dataset stored on Filecoin": "1 to 1.5 years",
+    "In which geographies do you plan on making storage deals": "Greater China, Asia other than Greater China, North America, Europe",
+    "How will you be distributing your data to storage providers": "Cloud storage (i.e. S3), Shipping hard drives, Lotus built-in data transfer",
+    "Please list the provider IDs and location of the storage providers you will be working with. Note that it is a requirement to list a minimum of 5 unique provider IDs, and that your client address will be verified against this list in the future": "f02169597 Shenzhen\r\nf02365890 Hongkong\r\nf0509981 Guizhou\r\nf01844118 Newyork\r\nf02834511 Hongkong",
+    "Can you confirm that you will follow the Fil+ guideline (Data owner should engage at least 4 SPs and no single SP ID should receive >30% of a client's allocated DataCap)": "Yes"
+  },
+  "Datacap": {
+    "Type": "ldn-v3",
+    "Data Type": "Slingshot",
+    "Total Requested Amount": "5PiB",
+    "Single Size Dataset": "1792TiB",
+    "Replicas": 7,
+    "Weekly Allocation": "512TiB"
+  },
+  "Lifecycle": {
+    "State": "Submitted",
+    "Validated At": "",
+    "Validated By": "",
+    "Active": true,
+    "Updated At": "2024-09-20 03:08:53.436740355 UTC",
+    "Active Request ID": "",
+    "On Chain Address": "f1whjtbym63vnovx6itndqkj6k57jdzl5umaiuoly",
+    "Multisig Address": "false",
+    "edited": false
+  },
+  "Allocation Requests": []
+}
